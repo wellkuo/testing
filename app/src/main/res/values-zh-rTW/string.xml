@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">哈哈</string>
+    <string name="title_activity_add_account">新增帳號</string>
+    <string name="test">中文測試唷</string>
+</resources>
